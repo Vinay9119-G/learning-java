@@ -1,4 +1,4 @@
-package com.company.Oops;
+package com.company.Encapsulation;
 
 public class Suv {
     private String name ;
